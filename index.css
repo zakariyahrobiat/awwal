@@ -32,7 +32,7 @@
     }
     .cart{
         animation: hybee 3s 0.2s infinite;
-        width: 80px;
+        width: 60px;
     }
     
     @keyframes hybee{
@@ -132,7 +132,7 @@
         color: #4D4B4B;
     }
     .first-text h5{
-        font-weight: 300;
+        font-weight: 200;
         text-align: justify;
         line-height: 1.4;
         margin-top: 1em;
