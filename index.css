@@ -260,7 +260,6 @@
    footer{
         display: grid;
         background-color: #FFDCBC;
-       max-width: 100%;
     }
    footer h2{
         font-size: 2em;
